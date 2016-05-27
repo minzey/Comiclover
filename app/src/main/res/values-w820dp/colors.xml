@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="superhero_text">#686868</color>
+    <color name="search_hint">#999999</color>
+    <color name="seach_text">#222222</color>
+
+</resources>

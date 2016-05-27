@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\volley-38a6a5996619f9da37abd654e177cc4c390c2723.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-6c9f18ea32f74c9dcb7f9022d82c250cfd1ffecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\classes-00d6b8d6f0f947f3b82cfcf732d54ffa6e5400ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\classes-400d1e8d5826f7c43301fe080728fb9f93a40a67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5b1184e79eff3e0cf75306e4907538feff861ca2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\classes-b9eab867a4aa2ef6e931e80032feebd4e207a1d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Swati\Desktop\ComicLover\app\build\intermediates\pre-dexed\debug\classes-f244050efbcf0ba282f59614a133477bef688b4c.jar" />
+    </item>
+
+</items>
